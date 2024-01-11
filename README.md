@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, sou Victor Clarindo 👋
+Um pouco sobre mim:
 
-<!--
-**VictorClarindo/VictorClarindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Atualmente estou trabalhando com Back-end
+- 🌱 Atualmente estou estudando Java
+- 💬 Vamos conversar sobre livros e ideias profundas
+- 📫 Como me achar: victorclarindo77@gmail.com
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
+  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=victorclarindo&show_icons=true&theme=transparent"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorclarindo&include_all_commits=true&show_icons=true&layout=compact&langs_count=10&theme=transparent"/>
+</div>
+
+<br/>
